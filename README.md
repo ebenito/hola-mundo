@@ -2,4 +2,6 @@
 
 # Edición sobre la rama New-Feature
 
-Cambios desde Visual Studio CodeEditando rama local Develop
+Cambios desde Visual Studio Code
+
+# Editando rama local Develop
